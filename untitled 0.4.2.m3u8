@@ -1,0 +1,191 @@
+#EXTM3U
+
+
+#EXTINF:0 tvg-id"2432" tvg-logo="https://i.imgur.com/AUaQh3V.jpg" group-title="TV Aberta",Rede Globo
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/1.m3u8
+
+#EXTINF:0 tvg-id"2433" tvg-logo="https://i.imgur.com/MJwZYaY.jpg" group-title="TV Aberta",SBT
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/2.m3u8
+
+#EXTINF:0 tvg-id"1031" tvg-logo="https://i.imgur.com/gbC6Vu2.jpg" group-title="TV Aberta",RecordTV
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/3.m3u8
+
+#EXTINF:0 tvg-id"2435" tvg-logo="https://i.imgur.com/yqbJ3yC.jpg" group-title="TV Aberta",RedeTV
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/5.m3u8
+
+
+######################***TELECINE***####################################
+
+
+
+#EXTINF:0 tvg-id"2603" tvg-logo="https://i.imgur.com/BYditu3.jpg" group-title="FILMES",Telecine Action
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/51.m3u8
+
+#EXTINF:0 tvg-id"2606" tvg-logo="https://i.imgur.com/BA06Ldy.jpg" group-title="FILMES",Telecine Fun
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/50.m3u8
+
+#EXTINF:0 tvg-id"2610" tvg-logo="https://i.imgur.com/dlXryVE.jpg" group-title="FILMES",Telecine Premium
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/48.m3u8
+
+#EXTINF:0 tvg-id"2608" tvg-logo="https://i.imgur.com/seuKdUS.jpg" group-title="FILMES",Telecine Pipoca
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/49.m3u8
+
+#EXTINF:0 tvg-id"2611" tvg-logo="https://i.imgur.com/shiC5z6.jpg" group-title="FILMES",Telecine Touch
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/52.m3u8
+
+#EXTINF:0 tvg-id"2605" tvg-logo="https://i.imgur.com/A23yVUP.jpg" group-title="FILMES",Telecine Cult
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/53.m3u8
+
+######################***HBO***####################################
+
+
+#EXTINF:0 tvg-id"2583" tvg-logo="https://i.imgur.com/tl4c2js.jpg" group-title="FILMES",HBO Signature
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/58.m3u8
+
+#EXTINF:0 tvg-id"2584" tvg-logo="https://i.imgur.com/dXZBZu2.jpg" group-title="FILMES",HBO Family
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/57.m3u8
+
+#EXTINF:0 tvg-id"2585" tvg-logo="https://i.imgur.com/eZmrFWn.jpg" group-title="FILMES",HBO Plus
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/56.m3u8
+
+#EXTINF:0 tvg-id"935" tvg-logo="https://i.imgur.com/KE1TKY1.jpg" group-title="FILMES",HBO 2
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/55.m3u8
+
+#EXTINF:0 tvg-id"1330" tvg-logo="https://i.imgur.com/Hz6jz8V.jpg" group-title="FILMES",HBO
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/54.m3u8
+
+######################***FILMES_SERIES***####################################
+
+#EXTINF:0 tvg-id"2586" tvg-logo="https://i.imgur.com/r3u9pWt.jpg" group-title="FILMES E SERIES",Investigaçao Discovery
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/115.m3u8
+
+#EXTINF:0 tvg-id"2557" tvg-logo="https://i.imgur.com/LZYWyd8.jpg" group-title="FILMES E SERIES",Warner Channel
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/116.m3u8
+
+#EXTINF:0 tvg-id"2587" tvg-logo="https://i.imgur.com/fmszLE4.jpg" group-title="FILMES E SERIES",Max Prime
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/79.m3u8
+
+#EXTINF:0 tvg-id"361" tvg-logo="https://i.imgur.com/Rkch0oK.jpg" group-title="FILMES E SERIES",Max Up
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/80.m3u8
+
+#EXTINF:0 tvg-id"2725" tvg-logo="https://i.imgur.com/1B2s9gP.jpg" group-title="FILMES E SERIES",Max
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/78.m3u8
+
+#EXTINF:0 tvg-id"2625" tvg-logo="https://i.imgur.com/zfB9E7J.jpg" group-title="FILMES E SERIES",Studio Universal
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/72.m3u8
+
+#EXTINF:0 tvg-id"895" tvg-logo="https://i.imgur.com/Bb5vkKw.jpg" group-title="FILMES E SERIES",TCM
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/72.m3u8
+
+#EXTINF:0 tvg-id"1719" tvg-logo="https://i.imgur.com/abWQUZ3.jpg" group-title="FILMES E SERIES",Paramount Channel
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/75.m3u8
+
+#EXTINF:0 tvg-id"1326" tvg-logo="https://i.imgur.com/q2kbX7C.jpg" group-title="FILMES E SERIES",CINEMAX
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/76.m3u8
+
+#EXTINF:0 tvg-id"1573" tvg-logo="https://i.imgur.com/a3Rqs3s.jpg" group-title="FILMES E SERIES",AXN
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/70.m3u8
+
+#EXTINF:0 tvg-id"2588" tvg-logo="https://i.imgur.com/aZS14Rn.jpg" group-title="FILMES E SERIES",MegaPix
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/68.m3u8
+
+#EXTINF:0 tvg-id"383" tvg-logo="https://i.imgur.com/P0jgR2N.jpg" group-title="FILMES E SERIES",Space
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/67.m3u8
+
+#EXTINF:0 tvg-id"1052" tvg-logo="https://i.imgur.com/oyz2YIO.jpg" group-title="FILMES E SERIES",TNT
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/65.m3u8
+
+#EXTINF:0 tvg-id"177" tvg-logo="http://i.imgur.com/60tOvzH.jpg" group-title="FILMES E SERIES",FOX
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/61.m3u8
+
+
+######################***NOTICIAS***####################################
+
+#EXTINF:0 tvg-id"2573" tvg-logo="https://i.imgur.com/zbE73gh.jpg" group-title="NOTICIAS",BandNews
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/98.m3u8
+
+#EXTINF:0 tvg-id"2561" tvg-logo="https://i.imgur.com/IMbpjCx.jpg" group-title="NOTICIAS",GloboNews
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/97.m3u8
+
+#EXTINF:0 tvg-id"" tvg-logo="https://i.imgur.com/sx42RlQ.jpg" group-title="NOTICIAS",RecordNews
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/100.m3u8
+
+#EXTINF:0 tvg-id"" tvg-logo="" group-title="",
+
+######################***DOCUMENTARIOS***####################################
+
+#EXTINF:0 tvg-id"56" tvg-logo="https://i.imgur.com/35RtA5A.jpg" group-title="DOCUMENTARIOS",National Geographic
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/112.m3u8
+
+#EXTINF:0 tvg-id"2839" tvg-logo="https://i.imgur.com/BwJuwh8.jpg" group-title="DOCUMENTARIOS",Discovery World
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/110.m3u8
+
+#EXTINF:0 tvg-id"2840" tvg-logo="https://i.imgur.com/L9Cu3ag.jpg" group-title="DOCUMENTARIOS",Discovery Turbo
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/109.m3u8
+
+#EXTINF:0 tvg-id"2558" tvg-logo="https://i.imgur.com/y7V8Lbb.jpg" group-title="DOCUMENTARIOS",Discovery Theater
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/108.m3u8
+
+#EXTINF:0 tvg-id"2724" tvg-logo="https://i.imgur.com/6LYQh1v.jpg" group-title="DOCUMENTARIOS",Discovery Home & Health
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/106.m3u8
+
+#EXTINF:0 tvg-id"2841" tvg-logo="https://i.imgur.com/P4PWAq5.jpg" group-title="DOCUMENTARIOS",Discovery Civilization
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/105.m3u8
+
+#EXTINF:0 tvg-id"57" tvg-logo="https://i.imgur.com/p9YXx7E.jpg" group-title="DOCUMENTARIOS",Discovery Channel
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/104.m3u8
+
+#EXTINF:0 tvg-id"1455" tvg-logo="https://i.imgur.com/t46JIb1.jpg" group-title="DOCUMENTARIOS",History
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/102.m3u8
+
+#EXTINF:0 tvg-id"240" tvg-logo="https://i.imgur.com/muwrmsd.jpg" group-title="DOCUMENTARIOS",Animal Planet
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/101.m3u8
+
+
+######################***DESENHOS***####################################
+
+
+#EXTINF:0 tvg-id"" tvg-logo="https://i.imgur.com/wyIiXvM.jpg" group-title="DESENHOS", Cartoon Network
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/117.m3u8
+
+#EXTINF:0 tvg-id"" tvg-logo="https://i.imgur.com/iRc3hXS.jpg" group-title="DESENHOS",Tooncast
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/124.m3u8
+
+#EXTINF:0 tvg-id"" tvg-logo="https://i.imgur.com/STrmugg.jpg" group-title="DESENHOS",Nickelodeon
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/123.m3u8
+
+#EXTINF:0 tvg-id"" tvg-logo="https://i.imgur.com/YCaZwed.jpg" group-title="DESENHOS",Disney Channel
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/118.m3u8
+
+#EXTINF:0 tvg-id"" tvg-logo="https://i.imgur.com/x5SvCC4.jpg" group-title="DESENHOS",Boomerang
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/127.m3u8
+
+
+######################***VARIEDADES***####################################
+
+#EXTINF:0 tvg-id"" tvg-logo="https://i.imgur.com/V1Kim7B.jpg" group-title="VARIEDADES",Comedy Central
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/93.m3u8
+
+#EXTINF:0 tvg-id"" tvg-logo="https://i.imgur.com/NDeYkfs.jpg" group-title="VARIEDADES",TBS
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/85.m3u8
+
+#EXTINF:0 tvg-id"" tvg-logo="https://i.imgur.com/NucXZBe.jpg" group-title="VARIEDADES",SYFY
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/60.m3u8
+
+#EXTINF:0 tvg-id"" tvg-logo="https://i.imgur.com/KWdTQmW.jpg" group-title="VARIEDADES",TLC
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/71.m3u8
+
+
+################***CANAIS DE MUSICA***####################
+
+#EXTINF:0 tvg-id"" tvg-logo="https://i.imgur.com/EgiaIRF.jpg" group-title="CANAIS DE MUSICA",MTV
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/87.m3u8
+
+#EXTINF:0 tvg-id"" tvg-logo="https://i.imgur.com/wCRzXWu.jpg" group-title="CANAIS DE MUSICA",Multishow
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/86.m3u8
+
+#EXTINF:0 tvg-id"" tvg-logo="https://i.imgur.com/6CSFTwC.jpg" group-title="CANAIS DE MUSICA",vh1
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/84.m3u8
+
+#EXTINF:0 tvg-id"" tvg-logo="https://i.imgur.com/9s9PnQT.jpg" group-title="CANAIS DE MUSICA",Bis
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/94.m3u8
